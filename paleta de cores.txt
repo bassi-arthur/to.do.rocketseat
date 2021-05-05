@@ -1,0 +1,6 @@
+DarkSlateGray	#2F4F4F	(47,79,79)
+LightSlateGray	#778899	(119,136,153)
+CadetBlue	#5F9EA0	(95,158,160)
+PaleGreen	#98FB98	(152,251,152)
+Khaki	#F0E68C	(240,230,140)
+
